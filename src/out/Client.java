@@ -26,7 +26,7 @@ public class Client {
         while(response.available() > 0) {
             System.out.println(response.read());
             serverResponse = serverResponse + (char)response.read();
-            System.out.println("asd");
+            System.out.println("exit");
         }
 
         sslsocket.close();

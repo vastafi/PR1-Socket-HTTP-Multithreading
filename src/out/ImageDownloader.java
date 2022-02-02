@@ -9,10 +9,8 @@ import java.net.Socket;
 import java.net.URL;
 
 public class ImageDownloader {
-    public ImageDownloader() {
-    }
 
-    public static void getAndWrite(String urlString, File path) throws IOException {
+        public static void getAndWrite(String urlString, File path) throws IOException {
         String var10000 = path.toPath().getParent().toString();
         String toWriteTo = var10000 + System.getProperty("file.separator");
         URL url = new URL(urlString);

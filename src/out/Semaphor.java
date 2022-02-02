@@ -2,12 +2,12 @@ package out;
 
 import java.util.concurrent.Semaphore;
 
-class Philosopher extends Thread {
+class Semaphor extends Thread {
     Semaphore sem;
     int num = 0;
     int id;
 
-    Philosopher(Semaphore sem, int id) {
+    Semaphor(Semaphore sem, int id) {
         this.sem = sem;
         this.id = id;
     }

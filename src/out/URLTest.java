@@ -20,7 +20,7 @@ public class URLTest {
         System.out.println("\nSending 'GET' request to URL : " + url);
         System.out.println("Response Code : " + responseCode);
         InputStream in = con.getInputStream();
-        FileOutputStream out = new FileOutputStream("abc.jpg");
+        FileOutputStream out = new FileOutputStream("test.jpg");
 
         try {
             byte[] bytes = new byte[2048];

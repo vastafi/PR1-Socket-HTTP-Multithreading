@@ -142,8 +142,8 @@ public class AnotherTask {
 
     public static String getRealNameOfPicture(String text) {
         String result = null;
-        if (text.contains("http://mib.utm.md")) {
-            result = text.replace("http://mib.utm.md", "");
+        if (text.contains("http://me.utm.md")) {
+            result = text.replace("http://me.utm.md", "");
             result = result.replace("'", "");
         } else {
             result = text;

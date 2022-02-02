@@ -35,7 +35,7 @@ public class SSLSocketClient {
             out.println("GET " + getArgument + " HTTP/1.1\r\nHost: " + hostName + "\r\n\r\n");
             out.flush();
             if (out.checkError()) {
-                System.out.println("SSLSocketClient:  java.io.PrintWriter error");
+                System.out.println("SSLSocketClient:java.io.PrintWriter error");
             }
 
             BufferedReader in;

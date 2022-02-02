@@ -10,7 +10,7 @@ public class Program {
         Semaphore sem = new Semaphore(2);
 
         for(int i = 1; i < 6; ++i) {
-            (new Philosopher(sem, i)).start();
+            (new Semaphor(sem, i)).start();
         }
 
     }
