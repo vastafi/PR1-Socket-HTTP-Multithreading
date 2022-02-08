@@ -76,7 +76,7 @@ public class AnotherTask {
     }
 
     public static List<String> getPics(String text) {
-        String regex = "<img.*src\\s*=\\s*(.*?)[^>]*?>";
+        String regex = "<img.*src\\s*=\\s*(.*?)(jpg|png|gif)[^>]*?>";
         List<String> pics = new ArrayList();
         Pattern pImage = Pattern.compile(regex, 2);
         Matcher mImage = pImage.matcher(text);
