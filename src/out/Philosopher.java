@@ -2,12 +2,12 @@ package out;
 
 import java.util.concurrent.Semaphore;
 
-class Semaphor extends Thread {
+class Philosopher extends Thread {
     Semaphore sem;
     int num = 0;
     int id;
 
-    Semaphor(Semaphore sem, int id) {
+    Philosopher(Semaphore sem, int id) {
         this.sem = sem;
         this.id = id;
     }
@@ -17,16 +17,16 @@ class Semaphor extends Thread {
             try {
                 if (this.num < 3) {
                     this.sem.acquire();
-                    System.out.println("Step " + this.id + "run");
+                    System.out.println("Step " + this.id + "pause");
                     sleep(500L);
                     ++this.num;
-                    System.out.println("Step" + this.id + "wrong");
+                    System.out.println("Step" + this.id + "start");
                     this.sem.release();
                     sleep(500L);
                     continue;
                 }
             } catch (InterruptedException var2) {
-                System.out.println("Step" + this.id + "pause");
+                System.out.println("Step" + this.id + "start-stop");
             }
 
             return;

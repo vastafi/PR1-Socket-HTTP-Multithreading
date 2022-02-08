@@ -9,7 +9,7 @@ import java.net.URL;
 public class URLTest {
     public URLTest() {
     }
-
+    // HTTP GET request
     private static void sendGet() throws Exception {
         String url = "http://me.utm.md/img/logo.png";
         URL obj = new URL(url);

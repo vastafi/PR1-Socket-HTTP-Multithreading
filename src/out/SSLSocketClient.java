@@ -40,7 +40,8 @@ public class SSLSocketClient {
 
             BufferedReader in;
             String inputLine;
-            for(in = new BufferedReader(new InputStreamReader(socket.getInputStream())); (inputLine = in.readLine()) != null; serverResponse = serverResponse + inputLine + "\n") {
+            for(in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+                (inputLine = in.readLine()) != null; serverResponse = serverResponse + inputLine + "\n") {
             }
 
             in.close();
