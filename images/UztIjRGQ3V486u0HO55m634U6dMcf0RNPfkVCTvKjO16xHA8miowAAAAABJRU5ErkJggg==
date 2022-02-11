@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="ro-RO"
+	prefix="og: https://ogp.me/ns#"  class="html_stretched responsive av-preloader-disabled  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking html_header_topbar_active html_mobile_menu_tablet html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_minimal_header html_minimal_header_shadow html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone av-cookies-consent-show-message-bar av-cookies-cookie-consent-enabled av-cookies-can-opt-out av-cookies-user-silent-accept avia-cookie-check-browser-settings av-default-lightbox av-no-preview html_text_menu_active av-mobile-menu-switch-default">
+<head>
+<meta charset="UTF-8" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>Nu am găsit pagina &#8211; UTM</title>
+
+		<!-- All in One SEO 4.1.7 -->
+		<meta name="robots" content="noindex" />
+		<link rel="canonical" href="https://utm.md/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEVzldTg4ODS0tLxDwDtAwDjAADD0uz39/fy8vL3k4nzgna4yOixwuXu7u7s6+zn5+fyd2rvcGPtZljYAABrjNCpvOHrWkxegsqfs93NAADpUUFRd8THAABBa7wnVbERRKa8vLyxsLCoqKigoKClCvcsAAAAXklEQVR4AS3JxUEAQQAEwZo13Mk/R9w5/7UERJCIGIgj5qfRJZEpPyNfCgJTjMR1eRRnJiExFJz5Mf1PokWr/UztIjRGQ3V486u0HO55m634U6dMcf0RNPfkVCTvKjO16xHA8miowAAAAABJRU5ErkJggg==/" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/utm.md\/#website","url":"https:\/\/utm.md\/","name":"UTM","description":"Universitatea Tehnic\u0103 a Moldovei","inLanguage":"ro-RO","publisher":{"@id":"https:\/\/utm.md\/#organization"}},{"@type":"Organization","@id":"https:\/\/utm.md\/#organization","name":"Universitatea Tehnica a Moldovei","url":"https:\/\/utm.md\/","logo":{"@type":"ImageObject","@id":"https:\/\/utm.md\/#organizationLogo","url":"https:\/\/utm.md\/wp-content\/uploads\/2020\/12\/logo-sigla.png","width":1000,"height":1000},"image":{"@id":"https:\/\/utm.md\/#organizationLogo"},"sameAs":["https:\/\/www.facebook.com\/UTMoldova\/","https:\/\/twitter.com\/UTMoldova","https:\/\/www.linkedin.com\/edu\/school?id=224948&#038;amp;trk=edu-up-nav-menu-home"]},{"@type":"BreadcrumbList","@id":"https:\/\/utm.md\/data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEVzldTg4ODS0tLxDwDtAwDjAADD0uz39\/fy8vL3k4nzgna4yOixwuXu7u7s6+zn5+fyd2rvcGPtZljYAABrjNCpvOHrWkxegsqfs93NAADpUUFRd8THAABBa7wnVbERRKa8vLyxsLCoqKigoKClCvcsAAAAXklEQVR4AS3JxUEAQQAEwZo13Mk\/R9w5\/7UERJCIGIgj5qfRJZEpPyNfCgJTjMR1eRRnJiExFJz5Mf1PokWr\/UztIjRGQ3V486u0HO55m634U6dMcf0RNPfkVCTvKjO16xHA8miowAAAAABJRU5ErkJggg==\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/utm.md\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/utm.md\/","name":"Prima pagin\u0103","description":"UTM este unica institu\u0163ie de \u00eenv\u0103\u0163\u0103m\u00e2nt superior tehnic, acreditat\u0103 de Stat, \u00een Republica Moldova. La UTM studiile sunt organizate la 9 facult\u0103\u0163i.","url":"https:\/\/utm.md\/"},"nextItem":"https:\/\/utm.md\/data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEVzldTg4ODS0tLxDwDtAwDjAADD0uz39\/fy8vL3k4nzgna4yOixwuXu7u7s6+zn5+fyd2rvcGPtZljYAABrjNCpvOHrWkxegsqfs93NAADpUUFRd8THAABBa7wnVbERRKa8vLyxsLCoqKigoKClCvcsAAAAXklEQVR4AS3JxUEAQQAEwZo13Mk\/R9w5\/7UERJCIGIgj5qfRJZEpPyNfCgJTjMR1eRRnJiExFJz5Mf1PokWr\/UztIjRGQ3V486u0HO55m634U6dMcf0RNPfkVCTvKjO16xHA8miowAAAAABJRU5ErkJggg==\/#listItem"},{"@type":"ListItem","@id":"https:\/\/utm.md\/data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEVzldTg4ODS0tLxDwDtAwDjAADD0uz39\/fy8vL3k4nzgna4yOixwuXu7u7s6+zn5+fyd2rvcGPtZljYAABrjNCpvOHrWkxegsqfs93NAADpUUFRd8THAABBa7wnVbERRKa8vLyxsLCoqKigoKClCvcsAAAAXklEQVR4AS3JxUEAQQAEwZo13Mk\/R9w5\/7UERJCIGIgj5qfRJZEpPyNfCgJTjMR1eRRnJiExFJz5Mf1PokWr\/UztIjRGQ3V486u0HO55m634U6dMcf0RNPfkVCTvKjO16xHA8miowAAAAABJRU5ErkJggg==\/#listItem","position":2,"item":{"@type":"WebPage","@id":"https:\/\/utm.md\/data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEVzldTg4ODS0tLxDwDtAwDjAADD0uz39\/fy8vL3k4nzgna4yOixwuXu7u7s6+zn5+fyd2rvcGPtZljYAABrjNCpvOHrWkxegsqfs93NAADpUUFRd8THAABBa7wnVbERRKa8vLyxsLCoqKigoKClCvcsAAAAXklEQVR4AS3JxUEAQQAEwZo13Mk\/R9w5\/7UERJCIGIgj5qfRJZEpPyNfCgJTjMR1eRRnJiExFJz5Mf1PokWr\/UztIjRGQ3V486u0HO55m634U6dMcf0RNPfkVCTvKjO16xHA8miowAAAAABJRU5ErkJggg==\/","name":"Not Found","url":"https:\/\/utm.md\/data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEVzldTg4ODS0tLxDwDtAwDjAADD0uz39\/fy8vL3k4nzgna4yOixwuXu7u7s6+zn5+fyd2rvcGPtZljYAABrjNCpvOHrWkxegsqfs93NAADpUUFRd8THAABBa7wnVbERRKa8vLyxsLCoqKigoKClCvcsAAAAXklEQVR4AS3JxUEAQQAEwZo13Mk\/R9w5\/7UERJCIGIgj5qfRJZEpPyNfCgJTjMR1eRRnJiExFJz5Mf1PokWr\/UztIjRGQ3V486u0HO55m634U6dMcf0RNPfkVCTvKjO16xHA8miowAAAAABJRU5ErkJggg==\/"},"previousItem":"https:\/\/utm.md\/#listItem"}]}]}
+		</script>
+		<!-- All in One SEO -->
+
+
+				<script type='text/javascript'>
+
+				function avia_cookie_check_sessionStorage()
+				{
+					//	FF throws error when all cookies blocked !!
+					var sessionBlocked = false;
+					try
+					{
+						var test = sessionStorage.getItem( 'aviaCookieRefused' ) != null;
+					}
+					catch(e)
+					{
+						sessionBlocked = true;
+					}
+					
+					var aviaCookieRefused = ! sessionBlocked ? sessionStorage.getItem( 'aviaCookieRefused' ) : null;
+					
+					var html = document.getElementsByTagName('html')[0];
+
+					/**
+					 * Set a class to avoid calls to sessionStorage
+					 */
+					if( sessionBlocked || aviaCookieRefused )
+					{
+						if( html.className.indexOf('av-cookies-session-refused') < 0 )
+						{
+							html.className += ' av-cookies-session-refused';
+						}
+					}
+					
+					if( sessionBlocked || aviaCookieRefused || document.cookie.match(/aviaCookieConsent/) )
+					{
+						if( html.className.indexOf('av-cookies-user-silent-accept') >= 0 )
+						{
+							 html.className = html.className.replace(/\bav-cookies-user-silent-accept\b/g, '');
+						}
+					}
+				}
+
+				avia_cookie_check_sessionStorage();
+
+			</script>
+			<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="UTM &raquo; Flux" href="https://utm.md/feed/" />
+<link rel="alternate" type="application/rss+xml" title="UTM &raquo; Flux comentarii" href="https://utm.md/comments/feed/" />
+
+<!-- google webfont font replacement -->
+
+			<script type='text/javascript'>
+
+				(function() {
+					
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+					
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+					
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= '//fonts.googleapis.com/css?family=Montserrat%7CMerriweather:300,400,700';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+			
+			</script>
+			<link rel='stylesheet' id='sbi_styles-css'  href='https://utm.md/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://utm.md/wp-includes/css/dist/block-library/style.min.css?ver=5.9' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='tptn-style-left-thumbs-css'  href='https://utm.md/wp-content/plugins/top-10/css/left-thumbs.min.css?ver=1.0.1' type='text/css' media='all' />
+<style id='tptn-style-left-thumbs-inline-css' type='text/css'>
+
+			.tptn_related a {
+			  width: 250px;
+			  height: 250px;
+			  text-decoration: none;
+			}
+			.tptn_related img {
+			  max-width: 250px;
+			  margin: auto;
+			}
+			.tptn_related .tptn_title {
+			  width: 100%;
+			}
+			
+</style>
+<link rel='stylesheet' id='avia-merged-styles-css'  href='https://utm.md/wp-content/uploads/dynamic_avia/avia-merged-styles-ab606dadfdbb7fd6ec60f92e8a0cccff---6179c1ededc38.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://utm.md/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://utm.md/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='email-posts-to-subscribers-js-extra'>
+/* <![CDATA[ */
+var elp_data = {"messages":{"elp_name_required":"Please enter name.","elp_email_required":"Please enter email address.","elp_invalid_name":"Name seems invalid.","elp_invalid_email":"Email address seems invalid.","elp_unexpected_error":"Oops.. Unexpected error occurred.","elp_invalid_captcha":"Robot verification failed, please try again.","elp_invalid_key":"Robot verification failed, invalid key.","elp_successfull_single":"You have successfully subscribed.","elp_successfull_double":"You have successfully subscribed. You will receive a confirmation email in few minutes. Please follow the link in it to confirm your subscription. If the email takes more than 15 minutes to appear in your mailbox, please check your spam folder.","elp_email_exist":"Email already exist.","elp_email_squeeze":"You are trying to submit too fast. try again in 1 minute."},"elp_ajax_url":"https:\/\/utm.md\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://utm.md/wp-content/plugins/email-posts-to-subscribers//inc/email-posts-to-subscribers.js?ver=2.2' id='email-posts-to-subscribers-js'></script>
+<script type='text/javascript' id='ai-js-js-extra'>
+/* <![CDATA[ */
+var MyAjax = {"ajaxurl":"https:\/\/utm.md\/wp-admin\/admin-ajax.php","security":"baa28ac5eb"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://utm.md/wp-content/plugins/advanced-iframe/js/ai.min.js?ver=488058' id='ai-js-js'></script>
+<link rel="https://api.w.org/" href="https://utm.md/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://utm.md/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://utm.md/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9" />
+<style>.elp_form_message.success { color: #008000;font-weight: bold; } .elp_form_message.error { color: #ff0000; } .elp_form_message.boterror { color: #ff0000; } </style><style type="text/css">0</style><link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="UTM RSS2 Feed" href="https://utm.md/feed/" />
+<link rel="pingback" href="https://utm.md/xmlrpc.php" />
+<!--[if lt IE 9]><script src="https://utm.md/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="http://utm.md/wp-content/uploads/2020/07/favicon.png" type="image/png">
+      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://utm.md");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '5d2af126-6d84-409a-87f1-e21c80afeafc';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['disable'] = true;
+oneSignal_options['path'] = "https://utm.md/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "pentru abonare la noutățile UTM click CONTINUARE";
+oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = "Fii la curent cu toate noutățile";
+oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = "Notificările vor apărea pe desktop-ul tău";
+oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = "Noutăți noi";
+oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = "Notificările vor apărea pe dispozitivul tău";
+oneSignal_options['promptOptions']['exampleNotificationCaption'] = "(poți anula abonarea la noutăți în orice moment)";
+oneSignal_options['promptOptions']['acceptButtonText'] = "CONTINUARE";
+oneSignal_options['promptOptions']['siteName'] = "https://utm.md";
+oneSignal_options['promptOptions']['autoAcceptTitle'] = "Click ABONARE";
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'inverse';
+oneSignal_options['notifyButton']['size'] = 'large';
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Abonează-te la noutăți UTM';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Acum ești abonat la notificări';
+oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'Ai blocat notificările';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Mulțumim pentru abonare la noutăți UTM';
+oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Acum ești abonat la notificări';
+oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'Din păcate, nu vei primi notificări';
+oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Gestionați notificările site-ului';
+oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'ABONEAZĂ-TE';
+oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'DEZABONEAZĂ-TE';
+oneSignal_options['notifyButton']['text']['dialog.blocked.title'] = 'Deblochează notificările';
+oneSignal_options['notifyButton']['text']['dialog.blocked.message'] = 'Urmează aceste instrucțiuni pentru a permite notificări';
+oneSignal_options['notifyButton']['colors'] = {};
+oneSignal_options['notifyButton']['colors']['circle.background'] = 'white';
+oneSignal_options['notifyButton']['colors']['circle.foreground'] = '#005491';
+oneSignal_options['notifyButton']['colors']['pulse.color'] = '#005491';
+oneSignal_options['notifyButton']['colors']['dialog.button.background'] = '#005491';
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+<!-- To speed up the rendering and to display the site as fast as possible to the user we include some styles and scripts for above the fold content inline -->
+<script type="text/javascript">'use strict';var avia_is_mobile=!1;if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)&&'ontouchstart' in document.documentElement){avia_is_mobile=!0;document.documentElement.className+=' avia_mobile '}
+else{document.documentElement.className+=' avia_desktop '};document.documentElement.className+=' js_active ';(function(){var e=['-webkit-','-moz-','-ms-',''],n='';for(var t in e){if(e[t]+'transform' in document.documentElement.style){document.documentElement.className+=' avia_transform ';n=e[t]+'transform'};if(e[t]+'perspective' in document.documentElement.style){document.documentElement.className+=' avia_transform3d '}};if(typeof document.getElementsByClassName=='function'&&typeof document.documentElement.getBoundingClientRect=='function'&&avia_is_mobile==!1){if(n&&window.innerHeight>0){setTimeout(function(){var e=0,o={},a=0,t=document.getElementsByClassName('av-parallax'),i=window.pageYOffset||document.documentElement.scrollTop;for(e=0;e<t.length;e++){t[e].style.top='0px';o=t[e].getBoundingClientRect();a=Math.ceil((window.innerHeight+i-o.top)*0.3);t[e].style[n]='translate(0px, '+a+'px)';t[e].style.top='auto';t[e].className+=' enabled-parallax '}},50)}}})();</script>		<style type="text/css" id="wp-custom-css">
+			/* buton de printare la anunturi*/
+
+.print_button{
+	clear:both;
+	float:left;
+	font-size:13px;
+	margin-top:30px;
+	padding:0;
+	width:100%
+}
+
+
+
+/*La articole similare marimea miniatiurii UTM*/
+
+.related-format-icon-inner{
+	position: absolute; 
+	height:30px; font-size: 20px;
+	line-height: 30px; top:50%; 
+	margin-top:-15px; left:0; 
+	width:100%;
+}
+
+.facebook{
+	padding: 15px;
+}
+
+
+
+/*stil pentru citat juridic*/
+.jurist{
+	clear:both;
+	float:left;
+	font-size:.8em;
+	margin-top:30px;
+	padding:0;width:100%;
+	font-style:italic;
+	text-align:justify;
+	margin-bottom:20px;
+}
+
+
+#main > div.container_wrap.container_wrap_first.main_color.sidebar_right > div > main > article > div.entry-content-wrapper.clearfix.standard-content > div.entry-content > p > a{
+	text-decoration:underline;
+}
+
+#main > div.container_wrap.container_wrap_first.main_color.sidebar_right > div > main > article > div.entry-content-wrapper.clearfix.standard-content > div.entry-content > p > a:hover{
+	text-decoration:none;
+}
+
+#avia-instagram-feed-2 > a{
+	color: #000;
+}
+
+
+
+#top #wrap_all .header_color .av-menu-button-colored > a .avia-menu-text{
+	background-color: #e01111;
+	border: #e01111;
+}
+
+		</style>
+		
+
+<style>
+    .table-responsive table{
+        border-collapse: collapse;
+        border-spacing: 0;
+        table-layout: auto;
+        padding: 0;
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto 20px auto;
+    }
+
+    .table-responsive {
+        overflow-x: auto;
+        min-height: 0.01%;
+        margin-bottom: 20px;
+    }
+
+    .table-responsive::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+    }
+    .table-responsive::-webkit-scrollbar-thumb {
+        background: #dddddd;
+        border-radius: 2px;
+    }
+    .table-responsive::-webkit-scrollbar-track-piece {
+        background: #fff;
+    }
+
+    @media (max-width: 992px) {
+        .table-responsive table{
+            width: auto!important;
+            margin:0 auto 15px auto!important;
+        }
+    }
+
+    @media screen and (max-width: 767px) {
+        .table-responsive {
+            width: 100%;
+            margin-bottom: 15px;
+            overflow-y: hidden;
+            -ms-overflow-style: -ms-autohiding-scrollbar;
+        }
+        .table-responsive::-webkit-scrollbar {
+            width: 5px;
+            height: 5px;
+        }
+
+    }
+
+
+    @media screen and (min-width: 1200px) {
+        .table-responsive .table {
+            max-width: 100%!important;
+        }
+    }
+    .wprt-container .table > thead > tr > th,
+    .wprt-container .table > tbody > tr > th,
+    .wprt-container .table > tfoot > tr > th,
+    .wprt-container .table > thead > tr > td,
+    .wprt-container .table > tbody > tr > td,
+    .wprt-container .table > tfoot > tr > td,
+    .wprt-container .table > tr > td{
+        border: 1px solid #dddddd!important;
+    }
+
+    .wprt-container .table > thead > tr > th,
+    .wprt-container .table > tbody > tr > th,
+    .wprt-container .table > tfoot > tr > th,
+    .wprt-container .table > thead > tr > td,
+    .wprt-container .table > tbody > tr > td,
+    .wprt-container .table > tfoot > tr > td,
+    .wprt-container .table > tr > td{
+        padding-top: 8px!important;
+        padding-right: 8px!important;
+        padding-bottom: 8px!important;
+        padding-left: 8px!important;
+        vertical-align: middle;
+        text-align: center;
+    }
+
+    .wprt-container .table-responsive .table tr:nth-child(odd) {
+        background-color: #fff!important;
+    }
+
+    .wprt-container .table-responsive .table tr:nth-child(even){
+        background-color: #f9f9f9!important;
+    }
+
+    .wprt-container .table-responsive .table thead+tbody tr:nth-child(even) {
+        background-color: #fff!important;
+    }
+
+    .wprt-container .table-responsive .table thead+tbody tr:nth-child(odd){
+        background-color: #f9f9f9!important;
+    }
+    
+    
+    .table-responsive table p {
+        margin: 0!important;
+        padding: 0!important;
+    }
+
+    .table-responsive table tbody tr td, .table-responsive table tbody tr th{
+        background-color: inherit!important;
+    }
+
+</style>
+
+    <style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('https://utm.md/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+url('https://utm.md/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+url('https://utm.md/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), 
+url('https://utm.md/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg'),
+url('https://utm.md/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot'),
+url('https://utm.md/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.8.6.5
+Installed: enfold
+AviaFramework Version: 5.0
+AviaBuilder Version: 4.8
+aviaElementManager Version: 1.0.1
+ML:256-PU:102-PLA:19
+WP:5.9
+Compress: CSS:all theme files - JS:all theme files
+Updates: enabled - token has changed and not verified
+PLAu:18
+-->
+</head>
+
+<body id="top" class="error404 stretched rtl_columns av-curtain-numeric montserrat merriweather  avia-responsive-images-support elementor-default elementor-kit-100377 av-recaptcha-enabled av-google-badge-hide" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_slim av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_tablet av_header_searchicon av_header_unstick_top_disabled av_minimal_header av_minimal_header_shadow av_bottom_nav_disabled  av_header_border_disabled'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div id='header_meta' class='container_wrap container_wrap_meta  av_icon_active_left av_extra_header_active av_secondary_right'>
+		
+			      <div class='container'>
+			      <ul class='noLightbox social_bookmarks icon_count_6'><li class='social_bookmarks_rss av-social-link-rss social_icon_1'><a  aria-label="Link to Rss  this site" href='https://utm.md/feed/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Rss'><span class='avia_hidden_link_text'>Rss</span></a></li><li class='social_bookmarks_youtube av-social-link-youtube social_icon_2'><a target="_blank" aria-label="Link to Youtube" href='https://www.youtube.com/channel/UC_IKZFSw3tuHr0urgkEYoUw' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Youtube' rel="noopener"><span class='avia_hidden_link_text'>Youtube</span></a></li><li class='social_bookmarks_facebook av-social-link-facebook social_icon_3'><a target="_blank" aria-label="Link to Facebook" href='https://www.facebook.com/UTMoldova/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Facebook' rel="noopener"><span class='avia_hidden_link_text'>Facebook</span></a></li><li class='social_bookmarks_twitter av-social-link-twitter social_icon_4'><a target="_blank" aria-label="Link to Twitter" href='https://twitter.com/UTMoldova' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Twitter' rel="noopener"><span class='avia_hidden_link_text'>Twitter</span></a></li><li class='social_bookmarks_linkedin av-social-link-linkedin social_icon_5'><a target="_blank" aria-label="Link to LinkedIn" href='https://www.linkedin.com/edu/school?id=224948&#038;trk=edu-up-nav-menu-home' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='LinkedIn' rel="noopener"><span class='avia_hidden_link_text'>LinkedIn</span></a></li><li class='social_bookmarks_instagram av-social-link-instagram social_icon_6'><a target="_blank" aria-label="Link to Instagram" href='https://www.instagram.com/utmoldova/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Instagram' rel="noopener"><span class='avia_hidden_link_text'>Instagram</span></a></li></ul><nav class='sub_menu'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><ul id="avia2-menu" class="menu"><li id="menu-item-8306-ru" class="lang-item lang-item-46 lang-item-ru no-translation lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-8306-ru"><a href="https://utm.md/ru/" hreflang="ru-RU" lang="ru-RU"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAdVBMVEX19f/u7vjm5/H+/v75+fng4Ove3ulFRfyysv6cnP6QkPmIiPh/f/YAAOYAAP1ycv5QUP06OvkxMfcoKPcgIPYUFPS0AADdaYzTRG/RPGnOM2LKLFzIIVPCEUZ7AAD0AQH7YGH3ODj0JyfzERDgAAD4TU3pAABIfLuPAAAAT0lEQVR4AQXBAQqDMAAAsZytyHzA/v9LYRS7JIAQMkBb0ATsgLoKInnHvIrHrdRaBzxupTDxuFUifUsp4R3zU4iwzmOyT1ibBtP2u3C+wB+SHBB5JNY7DAAAAABJRU5ErkJggg==" alt="РУССКИЙ" width="16" height="11" style="width: 16px; height: 11px;" /><span style="margin-left:0.3em;">РУССКИЙ</span></a></li>
+<li id="menu-item-8306-en" class="lang-item lang-item-119 lang-item-en no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-8306-en"><a href="https://utm.md/en/" hreflang="en-GB" lang="en-GB"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAt1BMVEWSmb66z+18msdig8La3u+tYX9IaLc7W7BagbmcUW+kqMr/q6n+//+hsNv/lIr/jIGMnNLJyOP9/fyQttT/wb3/////aWn+YWF5kNT0oqz0i4ueqtIZNJjhvt/8gn//WVr/6+rN1+o9RKZwgcMPJpX/VFT9UEn+RUX8Ozv2Ly+FGzdYZrfU1e/8LS/lQkG/mbVUX60AE231hHtcdMb0mp3qYFTFwNu3w9prcqSURGNDaaIUMX5FNW5wYt7AAAAAjklEQVR4AR3HNUJEMQCGwf+L8RR36ajR+1+CEuvRdd8kK9MNAiRQNgJmVDAt1yM6kSzYVJUsPNssAk5N7ZFKjVNFAY4co6TAOI+kyQm+LFUEBEKKzuWUNB7rSH/rSnvOulOGk+QlXTBqMIrfYX4tSe2nP3iRa/KNK7uTmWJ5a9+erZ3d+18od4ytiZdvZyuKWy8o3UpTVAAAAABJRU5ErkJggg==" alt="ENGLISH" width="16" height="11" style="width: 16px; height: 11px;" /><span style="margin-left:0.3em;">ENGLISH</span></a></li>
+<li id="menu-item-8306-fr" class="lang-item lang-item-123 lang-item-fr no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-8306-fr"><a href="https://utm.md/fr/" hreflang="fr-FR" lang="fr-FR"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEVzldTg4ODS0tLxDwDtAwDjAADD0uz39/fy8vL3k4nzgna4yOixwuXu7u7s6+zn5+fyd2rvcGPtZljYAABrjNCpvOHrWkxegsqfs93NAADpUUFRd8THAABBa7wnVbERRKa8vLyxsLCoqKigoKClCvcsAAAAXklEQVR4AS3JxUEAQQAEwZo13Mk/R9w5/7UERJCIGIgj5qfRJZEpPyNfCgJTjMR1eRRnJiExFJz5Mf1PokWr/UztIjRGQ3V486u0HO55m634U6dMcf0RNPfkVCTvKjO16xHA8miowAAAAABJRU5ErkJggg==" alt="FRANÇAIS" width="16" height="11" style="width: 16px; height: 11px;" /><span style="margin-left:0.3em;">FRANÇAIS</span></a></li>
+<li id="menu-item-14704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14704"><a href="https://utm.md/universitatea-mea/">Universitatea Mea</a></li>
+<li id="menu-item-14737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14737"><a target="_blank" rel="noopener" href="https://utm.md/maintenance.html">eServicii</a></li>
+<li id="menu-item-18515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18515"><a target="_blank" rel="noopener" href="http://merit.utm.md">Persoane de Merit</a></li>
+<li id="menu-item-83558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83558"><a href="https://utm.md/creare-back-link/">Back-link UTM</a></li>
+</ul></nav>			      </div>
+		</div>
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo avia-standard-logo'><a href='https://utm.md/' class=''><img src="https://utm.md/wp-content/uploads/2018/12/utm-logo.png" height="100" width="300" alt='UTM' title='utm-logo' /></a></span><nav class='main_menu' data-selectname='Selectați o pagină'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-100573" class="menu-item menu-item-type-custom menu-item-object-custom av-menu-button av-menu-button-colored menu-item-top-level menu-item-top-level-1"><a target="_blank" href="https://admitere.utm.md" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Admiterea</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-2"><a href="https://utm.md/despre-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Despre UTM</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-799" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/despre-utm/mesajul-rectorului/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Mesajul Rectorului</span></a></li>
+	<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/despre-utm/patrimoniu/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Patrimoniul universitar</span></a></li>
+	<li id="menu-item-800" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/despre-utm/pendul-foucault/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Pendulul Foucault</span></a></li>
+	<li id="menu-item-805" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/despre-utm/scurt-istoric-al-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Scurt istoric</span></a></li>
+	<li id="menu-item-55998" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://utm.md/organigram-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Organigrama UTM</span></a></li>
+	<li id="menu-item-2361" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/despre-utm/decoratie-internationala-calitate-europeana-pentru-universitatea-tehnica-a-moldovei/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Decoraţie Internaţională „Calitate Europeană&#8221;</span></a></li>
+</ul>
+</li>
+<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-3"><a href="https://utm.md/administratia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Administrația</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/administratia/rectorul/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Rectorul</span></a></li>
+	<li id="menu-item-803" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/administratia/raporturi-si-planuri-anuale/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Planuri și rapoarte de activitate</span></a></li>
+	<li id="menu-item-796" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/administratia/acte-normative/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Acte normative</span></a></li>
+	<li id="menu-item-806" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/administratia/senatul/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Senatul</span></a></li>
+	<li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/administratia/biroul-senatului/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Biroul Senatului</span></a></li>
+	<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/administratia/consiliul-de-administratie/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Consiliul de administraţie UTM</span></a></li>
+	<li id="menu-item-63485" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/administratia/deplasari-de-serviciu-in-strainatate/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Deplasări de serviciu în străinătate</span></a></li>
+</ul>
+</li>
+<li id="menu-item-382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-4"><a href="https://utm.md/procesul-de-studii/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Procesul de studii</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://utm.md/procesul-de-studii/licenta/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Studii ciclul I, Licență</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/licenta/specialitati-si-specializari-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Specialităţi şi specializări UTM</span></a></li>
+		<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/licenta/planuri-de-invatamint-la-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Planuri de învăţământ, ediţia 2011</span></a></li>
+		<li id="menu-item-8670" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/licenta/planuri/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Planuri de învăţământ, ediţia 2016</span></a></li>
+		<li id="menu-item-88920" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/licenta/planuri-de-invatamant-editia-2021/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Planuri de învăţământ, ediţia 2021</span></a></li>
+		<li id="menu-item-395" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/licenta/studii-la-distanta-e-learning/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Studii la distanţă (e-learning)</span></a></li>
+		<li id="menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/licenta/studii-cu-frecventa-redusa-la-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Studii cu frecvenţă redusă</span></a></li>
+		<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/licenta/calificari-si-titluri-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Calificări şi titluri UTM</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://utm.md/procesul-de-studii/masterat/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Studii ciclul II, Master</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/masterat/domenii-si-programe-de-masterat/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Domenii și programe de master</span></a></li>
+		<li id="menu-item-15262" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/masterat/titlurile-tezelor-de-master-2016-2017/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Titlurile tezelor de master</span></a></li>
+		<li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/masterat/organizarea-studiilor-de-masterat/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Organizarea studiilor de master</span></a></li>
+		<li id="menu-item-40612" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/masterat/planuri-de-invatamant/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Planuri de învăţământ</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://utm.md/procesul-de-studii/doctorat/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Studii ciclul III, Doctorat</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-2011" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/doctorat/departament-scoli-doctorale/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Direcția Doctorat și Postdoctorat</span></a></li>
+		<li id="menu-item-2010" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/doctorat/scoli-doctorale/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Școli doctorale</span></a></li>
+		<li id="menu-item-2009" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/doctorat/specialitati-stiintifice/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Specialități științifice</span></a></li>
+		<li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/doctorat/seminare-stiintifice-de-profil/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Seminare ştiinţifice de profil</span></a></li>
+		<li id="menu-item-2915" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/doctorat/conducatori-de-doctorat/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Conducători de doctorat</span></a></li>
+		<li id="menu-item-2914" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/doctorat/doctoranzi-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Doctoranzi UTM</span></a></li>
+		<li id="menu-item-7319" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/doctorat/teze-de-doctor/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Anunțuri doctorat</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-28099" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/calendar-universitar-20202021/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Calendar Universitar 2021/2022</span></a></li>
+	<li id="menu-item-6181" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/facultati/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Facultăți</span></a></li>
+	<li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/studii-medii-de-specialitate-la-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Colegiul Tehnic</span></a></li>
+	<li id="menu-item-12799" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/departamente-si-servicii/formare-continua/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Formare Continuă</span></a></li>
+	<li id="menu-item-90336" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://military.utm.md/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Catedra militară</span></a></li>
+	<li id="menu-item-845" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://utm.md/edu/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Procesul Bologna</span></a></li>
+	<li id="menu-item-2019" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://caam.utm.md/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Asistență Antreprenorială și Management</span></a></li>
+</ul>
+</li>
+<li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-mega-parent  menu-item-top-level menu-item-top-level-5"><a href="https://utm.md/subdiviziuni-universitare/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Subdiviziuni universitare</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<div class='avia_mega_div avia_mega3 nine units'>
+
+<ul class="sub-menu">
+	<li id="menu-item-486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_3 three units  avia_mega_menu_columns_first"><span class='mega_menu_title heading-color av-special-font'><a href='https://utm.md/subdiviziuni-universitare/facultati/'>Facultăți</a></span>
+	<ul class="sub-menu">
+		<li id="menu-item-483" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/facultati/facultatea-electronica-si-telecomunicatii/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Facultatea Electronică și Telecomunicații</span></a></li>
+		<li id="menu-item-485" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/facultati/facultatea-energetica-si-inginerie-electrica/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Facultatea Energetică și Inginerie Electrică</span></a></li>
+		<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/facultati/facultatea-calculatoare-informatica-si-microelectronica/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Facultatea Calculatoare, Informatică şi Microelectronică</span></a></li>
+		<li id="menu-item-481" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/facultati/facultatea-tehnologia-alimentelor/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Facultatea Tehnologia Alimentelor</span></a></li>
+		<li id="menu-item-484" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/facultati/facultatea-inginerie-mecanica-industriala-si-transporturi/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Facultatea Inginerie Mecanică, Industrială şi Transporturi</span></a></li>
+		<li id="menu-item-479" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/facultati/facultatea-urbanism-si-arhitectura/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Facultatea Urbanism şi Arhitectură</span></a></li>
+		<li id="menu-item-478" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/facultati/facultatea-constructii-geodezie-si-cadastru/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Facultatea Construcţii, Geodezie și Cadastru</span></a></li>
+		<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/facultati/facultatea-inginerie-economica-si-business/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Facultatea Inginerie Economică şi Business</span></a></li>
+		<li id="menu-item-480" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/facultati/facultatea-textile-si-poligrafie/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Facultatea Textile şi Poligrafie</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_3 three units "><span class='mega_menu_title heading-color av-special-font'><a href='https://utm.md/subdiviziuni-universitare/departamente-si-servicii/'>Direcții și servicii</a></span>
+	<ul class="sub-menu">
+		<li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/departamente-si-servicii/departament-tehnologii-informationale-si-comunicatii/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Direcția Tehnologia Informaţiei și Comunicații</span></a></li>
+		<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/departamente-si-servicii/departament-didactico-metodic/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Direcția Management Academic și Asigurarea Calității</span></a></li>
+		<li id="menu-item-15693" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/departamente-si-servicii/serviciul-relatii-cu-publicul-si-promovarea-imaginii/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Serviciul Relații cu Publicul și Promovarea Imaginii</span></a></li>
+		<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/departamente-si-servicii/departament-gestionare-economie-si-finante/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Direcția Managementul Resurselor</span></a></li>
+		<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/departamente-si-servicii/departament-investigatii-stiintifice-si-dezvoltare-tehnologica/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Direcția Investigaţii Ştiinţifice</span></a></li>
+		<li id="menu-item-444" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/departamente-si-servicii/formare-continua/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Serviciul Formare Continuă și Parteneriate</span></a></li>
+		<li id="menu-item-448" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/departamente-si-servicii/departament-cooperari-internationale/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Serviciul Relații Internaționale</span></a></li>
+		<li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/departamente-si-servicii/serviciul-administrativ-si-de-constructii-capitale/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Direcția Tehnică</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-6214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children avia_mega_menu_columns_3 three units avia_mega_menu_columns_last"><span class='mega_menu_title heading-color av-special-font'><a href='https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/'>Alte subdiviziuni</a></span>
+	<ul class="sub-menu">
+		<li id="menu-item-7443" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/centrul-universitar-de-informare-si-ghidare-in-cariera/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Centrul Universitar de Informare şi Ghidare în Carieră</span></a></li>
+		<li id="menu-item-10571" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/centru-de-excelenta-si-accelerare-in-design-si-tehnologii-ziphouse/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Centru de Excelență și Accelerare în Design și Tehnologii „ZIPhouse”</span></a></li>
+		<li id="menu-item-846" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.library.utm.md/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Biblioteca Tehnico-Științifică</span></a></li>
+		<li id="menu-item-2362" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/editura-tehnica-info/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Editura “Tehnica-Info”</span></a></li>
+		<li id="menu-item-8300" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/presa-universitara/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Presa universitară</span></a></li>
+		<li id="menu-item-543" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/comitetul-sindical-al-colaboratorilor-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Comitetul sindical salariați</span></a></li>
+		<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/comitetul-sindical-al-studentilor-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Comitetul sindical studenţi</span></a></li>
+		<li id="menu-item-1012" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/arte-sport/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Sportul universitar</span></a></li>
+		<li id="menu-item-1011" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/cultura-odihna/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Cultură, odihnă</span></a></li>
+		<li id="menu-item-1112" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/ansamblul-de-muzica-si-dans-popular-tineretea/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Ansamblul “Tinerețea”</span></a></li>
+		<li id="menu-item-1111" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/orchestra-de-fanfara/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Orchestra de fanfară</span></a></li>
+		<li id="menu-item-79686" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://utm.md/subdiviziuni-universitare/alte-subdiviziuni/serviciile-oferite-de-centru-medical-universitar/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Centrul medical universitar</span></a></li>
+	</ul>
+</li>
+</ul>
+
+</div>
+</li>
+<li id="menu-item-2338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-6"><a href="https://utm.md/cercetari-stiintifice/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Cercetări științifice</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-2346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Subdiviziuni de cercetare</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-53021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Centre științifice</span></a>
+		<ul class="sub-menu">
+			<li id="menu-item-2342" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/centrul-de-cercetare-si-implementare-a-tehnologiilor-avansate-etalon/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Etalon</span></a></li>
+			<li id="menu-item-2343" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/centrul-de-creativitate-tehnica/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Centrul de Creativitate Tehnică</span></a></li>
+			<li id="menu-item-2354" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/centrul-universitar-energy-plus/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Centrul Universitar „Energy Plus”</span></a></li>
+			<li id="menu-item-2355" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/centrul-de-educatie-si-de-cercetare-in-tehnologii-geoinformationale/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Tehnologii Geoinformaţionale</span></a></li>
+			<li id="menu-item-2356" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/centrul-de-microproductie-si-instruire-tehnofrig/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Centrul de Microproducţie şi Instruire „Tehnofrig”</span></a></li>
+			<li id="menu-item-2357" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/centrul-national-de-studiu-si-testare-a-materialelor/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Centrul Naţional de Studiu şi Testare a Materialelor</span></a></li>
+			<li id="menu-item-2358" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/centrul-national-de-tehnologii-spatiale/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Centrul Național de Tehnologii Spațiale</span></a></li>
+			<li id="menu-item-2360" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/centrul-international-de-educatie-cercetare-dezvoltare-si-transfer-tehnologic-tehnica-actionarilor-hidraulice-si-pneumatice/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Tehnica Acţionărilor Hidraulice şi Pneumatice</span></a></li>
+			<li id="menu-item-53019" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/centrul-didactico-stiintific-agro-alimentar/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Centrul Didactico-Științific Agro-Alimentar</span></a></li>
+			<li id="menu-item-53020" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/centrul-de-cercetari-oenologice/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Centrul de Cercetări Oenologice</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item-53022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Laboratoare științifice</span></a>
+		<ul class="sub-menu">
+			<li id="menu-item-2344" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/en/scientific-research/research-units/lmo/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Laboratory of Micro-Optoelectronics</span></a></li>
+			<li id="menu-item-2345" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/laboratorul-de-tehnologii-noi-in-domeniul-angrenajelor/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Laboratorul de Tehnologii Noi în Domeniul Angrenajelor</span></a></li>
+			<li id="menu-item-2353" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/centre-stiintifice/laboratorul-de-spectroscopie-optica-si-comunicatii-optice/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Laboratorul de microscopie optică şi comunicaţii optice</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item-53018" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/?page_id=782" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Programul Naţional de Producere mai Pură din Republica Moldova</span></a></li>
+		<li id="menu-item-42643" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://incubator.utm.md" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Incubator de Inovare Politehnica</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-79394" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://utm.md/cercetari-stiintifice/proiecte-de-cercetare/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Proiecte de cercetare</span></a></li>
+	<li id="menu-item-6305" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/doctorat/seminare-stiintifice-de-profil/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Seminare ştiinţifice de profil</span></a></li>
+	<li id="menu-item-6306" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/procesul-de-studii/doctorat/specialitati-stiintifice/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Specialități științifice</span></a></li>
+	<li id="menu-item-2348" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/?page_id=1195" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Premii de stat</span></a></li>
+	<li id="menu-item-51809" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/manifestari-stiintifice/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Manifestări științifice</span></a></li>
+	<li id="menu-item-73080" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/lucrari-stiintifice-de-valoare/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Lucrări științifice</span></a></li>
+	<li id="menu-item-28777" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://utm.md/cercetari/Atlas-eol-RO.pdf" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Atlasul Resurselor Energetice Eoliene</span></a></li>
+	<li id="menu-item-49151" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cercetari-stiintifice/rapoarte-privind-activitatea-stiintifica-si-inovationala/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Rapoarte privind activitatea științifică și inovațională</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-7"><a href="https://utm.md/cooperari-internationale/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Relații internaționale</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-17641" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/subdiviziuni-universitare/departamente-si-servicii/departament-cooperari-internationale/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Serviciul Relații Internaționale</span></a></li>
+	<li id="menu-item-2341" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cooperari-internationale/acorduri-de-colaborare/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Parteneri Internaționali</span></a></li>
+	<li id="menu-item-2349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://utm.md/cooperari-internationale/proiecte-in-derulare-la-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Programe Internaționale</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-17822" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cooperari-internationale/proiecte-in-derulare-la-utm/erasmus/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Erasmus+</span></a></li>
+		<li id="menu-item-17782" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cooperari-internationale/proiecte-in-derulare-la-utm/tempus-2/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Tempus</span></a></li>
+		<li id="menu-item-2350" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cooperari-internationale/proiecte-in-derulare-la-utm/agentia-universitara-a-francofoniei/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">AUF</span></a></li>
+		<li id="menu-item-17783" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cooperari-internationale/proiecte-in-derulare-la-utm/ceepus/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">CEEPUS</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-26200" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://proiecte.utm.md" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Proiecte internaționale</span></a></li>
+	<li id="menu-item-2351" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cooperari-internationale/grupul-local-best-la-utm/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Grupul Local BEST</span></a></li>
+	<li id="menu-item-17654" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/cooperari-internationale/programe-si-burse/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Programe și burse</span></a></li>
+	<li id="menu-item-17850" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://utm.md/admiterea-utm/admiterea-cetateni-straini/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Studenți străini</span></a></li>
+</ul>
+</li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special"><a aria-label="Cautare" href="?s=" rel="nofollow" data-avia-search-tooltip="
+
+&lt;form role=&quot;search&quot; action=&quot;https://utm.md/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Cautare' /&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;
+" aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Cautare</span></a></li><li class="av-burger-menu-main menu-item-avia-special ">
+	        			<a href="#" aria-label="Menu" aria-hidden="false">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+								<span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+								</span>
+							</span>
+							<span class="avia_hidden_link_text">Menu</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' class='all_colors' data-scroll-offset='88'>
+
+	<div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><h1 class='main-title entry-title '>Eroare 404 - pagina nu a fost gasita</h1><div class="breadcrumb breadcrumbs avia-breadcrumbs"><div class="breadcrumb-trail" ><span class="trail-before"><span class="breadcrumb-title">Sunteți aici:</span></span> <span  itemscope="itemscope" itemtype="https://schema.org/BreadcrumbList" ><span  itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement" ><a itemprop="url" href="https://utm.md" title="UTM" rel="home" class="trail-begin"><span itemprop="name">Acasa</span></a><span itemprop="position" class="hidden">1</span></span></span> <span class="sep">/</span> <span class="trail-end">404 Pagina nu a fost găsita</span></div></div></div></div>
+
+		<div class='container_wrap container_wrap_first main_color fullsize'>
+			
+						
+			<div class='container'>
+
+				<main class='template-page content av-content-full alpha units'  role="main" itemprop="mainContentOfPage" >
+
+
+                    <div class="entry entry-content-wrapper clearfix" id='search-fail'>
+                    
+<p class='entry-content'><strong>nimic găsit</strong><br/>
+
+Ne pare rău, post pe care il cautati nu este disponibil. Poate doriți să efectuați o căutare?</p>
+
+
+<form action="https://utm.md/" id="searchform" method="get" class="">
+	<div>
+		<input type="text" id="s" name="s" value="" placeholder='Cautare' />
+		<input type="submit" value="" id="searchsubmit" class="button avia-font-entypo-fontello" />
+			</div>
+</form>
+
+
+
+<div class='hr_invisible'></div>
+
+<section class="404_recommendation">
+    <p><strong>Pentru cele mai bune rezultate de căutare, minte Următoarele sugestii:</strong></p>
+    <ul class='borderlist-not'>
+        <li>Întotdeauna verificați ortografia.</li>
+        <li>Încercați cuvinte cheie similare, de exemplu: comprimat în loc de laptop.</li>
+        <li>Încercați să folosiți mai mult de un cuvânt cheie.</li>
+    </ul>
+
+    <div class='hr_invisible'></div>
+
+    </section>
+                    </div>
+
+				<!--end content-->
+				</main>
+
+				
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+
+
+
+				<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column av_one_fourth  first el_before_av_one_fourth'>				<section class='widget'>
+				<h3 class='widgettitle'>link-uri interesante</h3>
+				<span class='minitext'>Aici sunt cateva link-uri interesante pentru tine! Bucurați-vă de sejurul dvs. :)</span>
+				</section>
+			</div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="avia_fb_likebox-3" class="widget clearfix avia_fb_likebox"><h3 class="widgettitle">UTM pe Facebook</h3><div class='av_facebook_widget_wrap ' ><div class="fb-page" data-width="500" data-href="https://www.facebook.com/UTMoldova" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"></div></div></div><span class="seperator extralight-border"></span></section><section id="text-15" class="widget clearfix widget_text"><h3 class="widgettitle">Link-uri interesante</h3>			<div class="textwidget"><p>Aici sunt linkuri către RSS Feed al Universității Tehnice a Moldovei și la pagina noastră pe Twitter</p>
+</div>
+		<span class="seperator extralight-border"></span></section><section id="avia_socialcount-10" class="widget clearfix avia_socialcount"><a href='http://twitter.com/https://twitter.com/UTMoldova/' class='asc_twitter asc_multi_count'><span class="social_widget_icon" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><strong class='asc_count'>Urmareste</strong><span>pe Twitter</span></a><a href='https://utm.md/feed/' class='asc_rss asc_multi_count'><span class="social_widget_icon" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><strong class='asc_count'>Subscrie</strong><span>la RSS Feed</span></a><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="text-4" class="widget clearfix widget_text"><h3 class="widgettitle">Contacte</h3>			<div class="textwidget"><strong>Adresa</strong><br/>
+Bd. Ştefan cel Mare, 168, MD-2004, Chișinău, Republica Moldova
+<br/><br/>
+<strong>Oficiul Rectorului</strong>
+<br/>
+Tel: <a href="tel:+37322237861">022 23-78-61</a> | Fax: 022 23-85-04
+<br/>
+E-mail: <a href="mailto:rectorat@adm.utm.md">rectorat@adm.utm.md</a>
+<br/><br/>
+<strong>Comisia de Admitere</strong><br/>
+E-mail: admiterea@adm.utm.md
+<br/>
+Tel: 078 83 90 49 / 022 23-51-85<br/><br/>
+<strong>Secretariat</strong><br/>
+E-mail: secretariat@adm.utm.md<br/>
+Tel: 022 23-54-41 / Fax: 0223-54-41<br/><br/></div>
+		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="custom_html-7" class="widget_text widget clearfix widget_custom_html"><h3 class="widgettitle">LOCAȚIA PE HARTĂ</h3><div class="textwidget custom-html-widget"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2719.484920766528!2d28.821668315796074!3d47.03071463557406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c97dc9f2eaba21%3A0x98c10ca8ee46f3d9!2z0KLQtdGF0L3QuNGH0LXRgdC60LjQuSDQo9C90LjQstC10YDRgdC40YLQtdGCINCc0L7Qu9C00L7QstGL!5e0!3m2!1sru!2s!4v1580297559651!5m2!1sru!2s" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen=""></iframe></div><span class="seperator extralight-border"></span></section></div>
+					</div>
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+	
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'> © Copyright 2007 - <script> 	var d = new Date(); 	document.write(d.getFullYear());   </script> | utm.md - All rights reserved.</span>
+
+                        <nav class='sub_menu_socket'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia3-menu"><ul id="avia3-menu" class="menu"><li id="menu-item-77656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-1"><a target="_blank" href="https://utm.md/Politica%20de%20confidentialitate.pdf" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Politica de confidențialitate</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-77702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="https://utm.md/despre-utm/link-uri-utile/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Link-uri utile</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+</ul></div></nav>
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+
+<div class="avia-cookie-consent-wrap" aria-hidden="true"><div class='avia-cookie-consent cookiebar-hidden  avia-cookiemessage-bottom'  aria-hidden='true'  data-contents='18ce70fe03b6e8e823626e2cbc8b2a7a||v1.0' ><div class="container"><p class='avia_cookie_text'>This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.</p><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-1  avia-cookie-close-bar ' >OK</a><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-2 av-extra-cookie-btn  avia-cookie-info-btn ' >Learn more</a></div></div><div id='av-consent-extra-info' data-nosnippet class='av-inline-modal main_color avia-hide-popup-close'>
+<style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-av_heading-e9726c5b3ba47c61a37656c1e7d02a7a">
+#top .av-special-heading.av-av_heading-e9726c5b3ba47c61a37656c1e7d02a7a{
+margin:10px 0 0 0;
+padding-bottom:10px;
+}
+</style>
+<div  class='av-special-heading av-av_heading-e9726c5b3ba47c61a37656c1e7d02a7a av-special-heading-h3 blockquote modern-quote '><h3 class='av-special-heading-tag '  itemprop="headline"  >Cookie and Privacy Settings</h3><div class='special-heading-border'><div class='special-heading-inner-border'></div></div></div><br />
+<style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9">
+#top .hr.av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9{
+margin-top:0px;
+margin-bottom:0px;
+}
+.hr.av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9 .hr-inner{
+width:100%;
+}
+</style>
+<div  class='hr av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9 hr-custom hr-left hr-icon-no '><span class='hr-inner inner-border-av-border-thin'><span class="hr-inner-style"></span></span></div><br /><div  class="tabcontainer   sidebar_tab sidebar_tab_left noborder_tabs " role="tablist">
+<section class="av_tab_section" ><div aria-controls="tab-id-1-content" role="tab" tabindex="0" data-fake-id="#tab-id-1" class="tab active_tab" >How we use cookies</div>
+<div id="tab-id-1-content" class="tab_content active_tab_content" aria-hidden="false">
+<div class="tab_inner_content invers-color" >
+<p>We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website. </p>
+<p>Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.</p>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section" ><div aria-controls="tab-id-2-content" role="tab" tabindex="0" data-fake-id="#tab-id-2" class="tab " >Essential Website Cookies</div>
+<div id="tab-id-2-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color" >
+<p>These cookies are strictly necessary to provide you with services available through our website and to use some of its features.</p>
+<p>Because these cookies are strictly necessary to deliver the website, refuseing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.</p>
+<p>We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.</p>
+<p>We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.</p>
+<div class="av-switch-aviaPrivacyRefuseCookiesHideBar av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-checked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyRefuseCookiesHideBar" class="aviaPrivacyRefuseCookiesHideBar " name="aviaPrivacyRefuseCookiesHideBar" ><span class="toggle-track"></span><span class="toggle-label-content">Check to enable permanent hiding of message bar and refuse all cookies if you do not opt in. We need 2 cookies to store this setting. Otherwise you will be prompted again when opening a new browser window or new a tab.</span></label></div>
+<div class="av-switch-aviaPrivacyEssentialCookiesEnabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-checked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyEssentialCookiesEnabled" class="aviaPrivacyEssentialCookiesEnabled " name="aviaPrivacyEssentialCookiesEnabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable essential site cookies.</span></label></div>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section" ><div aria-controls="tab-id-3-content" role="tab" tabindex="0" data-fake-id="#tab-id-3" class="tab " >Google Analytics Cookies</div>
+<div id="tab-id-3-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color" >
+<p>These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website and application for you in order to enhance your experience.</p>
+<p>If you do not want that we track your visit to our site you can disable tracking in your browser here:</p>
+<div data-disabled_by_browser="Please enable this feature in your browser settings and reload the page." class="av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleTrackingDisabled" class="aviaPrivacyGoogleTrackingDisabled " name="aviaPrivacyGoogleTrackingDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable Google Analytics tracking.</span></label></div>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section" ><div aria-controls="tab-id-4-content" role="tab" tabindex="0" data-fake-id="#tab-id-4" class="tab " >Other external services</div>
+<div id="tab-id-4-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color" >
+<p>We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.</p>
+<p>Google Webfont Settings:</p>
+<div class="av-switch-aviaPrivacyGoogleWebfontsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleWebfontsDisabled" class="aviaPrivacyGoogleWebfontsDisabled " name="aviaPrivacyGoogleWebfontsDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable Google Webfonts.</span></label></div>
+<p>Google Map Settings:</p>
+<div class="av-switch-aviaPrivacyGoogleMapsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleMapsDisabled" class="aviaPrivacyGoogleMapsDisabled " name="aviaPrivacyGoogleMapsDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable Google Maps.</span></label></div>
+<p>Google reCaptcha Settings:</p>
+<div class="av-switch-aviaPrivacyGoogleReCaptchaDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleReCaptchaDisabled" class="aviaPrivacyGoogleReCaptchaDisabled " name="aviaPrivacyGoogleReCaptchaDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable Google reCaptcha.</span></label></div>
+<p>Vimeo and Youtube video embeds:</p>
+<div class="av-switch-aviaPrivacyVideoEmbedsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyVideoEmbedsDisabled" class="aviaPrivacyVideoEmbedsDisabled " name="aviaPrivacyVideoEmbedsDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable video embeds.</span></label></div>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section" ><div aria-controls="tab-id-5-content" role="tab" tabindex="0" data-fake-id="#tab-id-5" class="tab " >Other cookies</div>
+<div id="tab-id-5-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color" >
+<p>The following cookies are also needed - You can choose if you want to allow them:</p>
+<div class="av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleTrackingDisabled" class="aviaPrivacyGoogleTrackingDisabled " name="aviaPrivacyGoogleTrackingDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable _ga - Google Analytics Cookie.</span></label></div>
+<div class="av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleTrackingDisabled" class="aviaPrivacyGoogleTrackingDisabled " name="aviaPrivacyGoogleTrackingDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable _gid - Google Analytics Cookie.</span></label></div>
+<div class="av-switch-aviaPrivacyGoogleTrackingDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleTrackingDisabled" class="aviaPrivacyGoogleTrackingDisabled " name="aviaPrivacyGoogleTrackingDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Click to enable/disable _gat_* - Google Analytics Cookie.</span></label></div>
+
+</div>
+</div>
+</section>
+<section class="av_tab_section" ><div aria-controls="tab-id-6-content" role="tab" tabindex="0" data-fake-id="#tab-id-6" class="tab " >Privacy Policy</div>
+<div id="tab-id-6-content" class="tab_content " aria-hidden="true">
+<div class="tab_inner_content invers-color" >
+<p>You can read about our cookies and privacy settings in detail on our Privacy Policy Page. </p>
+<a href='https://utm.md/?page_id=77657' target='_blank'>Политика конфиденциальности</a>
+
+</div>
+</div>
+</section>
+</div>
+<div class="avia-cookie-consent-modal-buttons-wrap"><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-3  avia-cookie-close-bar avia-cookie-consent-modal-button'  title="Allow to use cookies, you always can modify used cookies and services" >Accept settings</a><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-4 av-extra-cookie-btn avia-cookie-consent-modal-button avia-cookie-hide-notification'  title="Do not allow to use cookies or services - some functionality on our site might not work as expected." >Hide notification only</a></div></div></div><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://utm.md/wp-admin/admin-ajax.php";
+</script>
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://utm.md/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://utm.md/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://utm.md/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ 
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ro_RO/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));</script><script type='text/javascript' src='https://utm.md/wp-content/plugins/wp-responsive-table/assets/frontend/js/wprt-script.js?ver=1.2.6' id='wprt-script-js'></script>
+<script type='text/javascript' id='avia-cookie-js-js-extra'>
+/* <![CDATA[ */
+var AviaPrivacyCookieConsent = {"?":"Usage unknown","aviaCookieConsent":"Use and storage of Cookies has been accepted - restrictions set in other cookies","aviaPrivacyRefuseCookiesHideBar":"Hide cookie message bar on following page loads and refuse cookies if not allowed - aviaPrivacyEssentialCookiesEnabled must be set","aviaPrivacyEssentialCookiesEnabled":"Allow storage of site essential cookies and other cookies and use of features if not opt out","aviaPrivacyVideoEmbedsDisabled":"Do not allow video embeds","aviaPrivacyGoogleTrackingDisabled":"needed to remove cookie _gat_ (Stores information needed by Google Analytics)","aviaPrivacyGoogleWebfontsDisabled":"Do not allow Google Webfonts","aviaPrivacyGoogleMapsDisabled":"Do not allow Google Maps","aviaPrivacyGoogleReCaptchaDisabled":"Do not allow Google reCaptcha","aviaPrivacyMustOptInSetting":"Settings are for users that must opt in for cookies and services","PHPSESSID":"Operating site internal cookie - Keeps track of your session","XDEBUG_SESSION":"Operating site internal cookie - PHP Debugger session cookie","wp-settings*":"Operating site internal cookie","wordpress*":"Operating site internal cookie","tk_ai*":"Shop internal cookie","woocommerce*":"Shop internal cookie","wp_woocommerce*":"Shop internal cookie","wp-wpml*":"Needed to manage different languages","_ga":"Stores information needed by Google Analytics","_gid":"Stores information needed by Google Analytics","_gat_*":"Stores information needed by Google Analytics"};
+var AviaPrivacyCookieAdditionalData = {"cookie_refuse_button_alert":"When refusing all cookies this site might not be able to work as expected. Please check our settings page and opt out for cookies or functions you do not want to use and accept cookies. You will be shown this message every time you open a new window or a new tab.\n\nAre you sure you want to continue?","no_cookies_found":"No accessable cookies found in domain","admin_keep_cookies":["PHPSESSID","wp-*","wordpress*","XDEBUG*"],"remove_custom_cookies":{"1":{"cookie_name":"_ga","cookie_path":"\/","cookie_content":"Google Analytics Cookie","cookie_info_desc":"Stores information needed by Google Analytics","cookie_compare_action":"","avia_cookie_name":"aviaPrivacyGoogleTrackingDisabled"},"2":{"cookie_name":"_gid","cookie_path":"\/","cookie_content":"Google Analytics Cookie","cookie_info_desc":"Stores information needed by Google Analytics","cookie_compare_action":"","avia_cookie_name":"aviaPrivacyGoogleTrackingDisabled"},"3":{"cookie_name":"_gat_","cookie_path":"\/","cookie_content":"Google Analytics Cookie","cookie_info_desc":"Stores information needed by Google Analytics","cookie_compare_action":"starts_with","avia_cookie_name":"aviaPrivacyGoogleTrackingDisabled"}},"no_lightbox":"We need a lightbox to show the modal popup. Please enable the built in lightbox in Theme Options Tab or include your own modal window plugin.\\n\\nYou need to connect this plugin in JavaScript with callback wrapper functions - see avia_cookie_consent_modal_callback in file enfold\\js\\avia-snippet-cookieconsent.js "};
+/* ]]> */
+</script>
+<script type='text/javascript' id='avia_google_recaptcha_front_script-js-extra'>
+/* <![CDATA[ */
+var AviaReCAPTCHA_front = {"version":"avia_recaptcha_v2","site_key2":"6LcejvocAAAAAF-baviORbul5AZtpiLcbc9z1FH4","site_key3":"","api":"https:\/\/www.google.com\/recaptcha\/api.js","avia_api_script":"https:\/\/utm.md\/wp-content\/themes\/enfold\/framework\/js\/conditional_load\/avia_google_recaptcha_api.js","theme":"light","score":"0.5","verify_nonce":"cdd06270f3","cannot_use":"<h3 class=\"av-recaptcha-error-main\">Sorry, a problem occurred trying to communicate with Google reCAPTCHA API. You are currently not able to submit the contact form. Please try again later - reload the page and also check your internet connection.<\/h3>","init_error_msg":"Initial setting failed. Sitekey 2 and\/or sitekey 3 missing in frontend.","v3_timeout_pageload":"Timeout occurred connecting to V3 API on initial pageload","v3_timeout_verify":"Timeout occurred connecting to V3 API on verifying submit","v2_timeout_verify":"Timeout occurred connecting to V2 API on verifying you as human. Please try again and check your internet connection. It might be necessary to reload the page.","verify_msg":"Verify....","connection_error":"Could not connect to the internet. Please reload the page and try again.","validate_first":"Please validate that you are a human first","validate_submit":"Before submitting we validate that you are a human first.","no_token":"Missing internal token on valid submit - unable to proceed.","invalid_version":"Invalid reCAPTCHA version found.","api_load_error":"Google reCAPTCHA API could not be loaded."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.9' async='async' id='remote_sdk-js'></script>
+<script type='text/javascript' id='avia-footer-scripts-js-extra'>
+/* <![CDATA[ */
+var AviaPrivacyCookieConsent = {"?":"Usage unknown","aviaCookieConsent":"Use and storage of Cookies has been accepted - restrictions set in other cookies","aviaPrivacyRefuseCookiesHideBar":"Hide cookie message bar on following page loads and refuse cookies if not allowed - aviaPrivacyEssentialCookiesEnabled must be set","aviaPrivacyEssentialCookiesEnabled":"Allow storage of site essential cookies and other cookies and use of features if not opt out","aviaPrivacyVideoEmbedsDisabled":"Do not allow video embeds","aviaPrivacyGoogleTrackingDisabled":"needed to remove cookie _gat_ (Stores information needed by Google Analytics)","aviaPrivacyGoogleWebfontsDisabled":"Do not allow Google Webfonts","aviaPrivacyGoogleMapsDisabled":"Do not allow Google Maps","aviaPrivacyGoogleReCaptchaDisabled":"Do not allow Google reCaptcha","aviaPrivacyMustOptInSetting":"Settings are for users that must opt in for cookies and services","PHPSESSID":"Operating site internal cookie - Keeps track of your session","XDEBUG_SESSION":"Operating site internal cookie - PHP Debugger session cookie","wp-settings*":"Operating site internal cookie","wordpress*":"Operating site internal cookie","tk_ai*":"Shop internal cookie","woocommerce*":"Shop internal cookie","wp_woocommerce*":"Shop internal cookie","wp-wpml*":"Needed to manage different languages","_ga":"Stores information needed by Google Analytics","_gid":"Stores information needed by Google Analytics","_gat_*":"Stores information needed by Google Analytics"};
+var AviaPrivacyCookieAdditionalData = {"cookie_refuse_button_alert":"When refusing all cookies this site might not be able to work as expected. Please check our settings page and opt out for cookies or functions you do not want to use and accept cookies. You will be shown this message every time you open a new window or a new tab.\n\nAre you sure you want to continue?","no_cookies_found":"No accessable cookies found in domain","admin_keep_cookies":["PHPSESSID","wp-*","wordpress*","XDEBUG*"],"remove_custom_cookies":{"1":{"cookie_name":"_ga","cookie_path":"\/","cookie_content":"Google Analytics Cookie","cookie_info_desc":"Stores information needed by Google Analytics","cookie_compare_action":"","avia_cookie_name":"aviaPrivacyGoogleTrackingDisabled"},"2":{"cookie_name":"_gid","cookie_path":"\/","cookie_content":"Google Analytics Cookie","cookie_info_desc":"Stores information needed by Google Analytics","cookie_compare_action":"","avia_cookie_name":"aviaPrivacyGoogleTrackingDisabled"},"3":{"cookie_name":"_gat_","cookie_path":"\/","cookie_content":"Google Analytics Cookie","cookie_info_desc":"Stores information needed by Google Analytics","cookie_compare_action":"starts_with","avia_cookie_name":"aviaPrivacyGoogleTrackingDisabled"}},"no_lightbox":"We need a lightbox to show the modal popup. Please enable the built in lightbox in Theme Options Tab or include your own modal window plugin.\\n\\nYou need to connect this plugin in JavaScript with callback wrapper functions - see avia_cookie_consent_modal_callback in file enfold\\js\\avia-snippet-cookieconsent.js "};var AviaReCAPTCHA_front = {"version":"avia_recaptcha_v2","site_key2":"6LcejvocAAAAAF-baviORbul5AZtpiLcbc9z1FH4","site_key3":"","api":"https:\/\/www.google.com\/recaptcha\/api.js","avia_api_script":"https:\/\/utm.md\/wp-content\/themes\/enfold\/framework\/js\/conditional_load\/avia_google_recaptcha_api.js","theme":"light","score":"0.5","verify_nonce":"cdd06270f3","cannot_use":"<h3 class=\"av-recaptcha-error-main\">Sorry, a problem occurred trying to communicate with Google reCAPTCHA API. You are currently not able to submit the contact form. Please try again later - reload the page and also check your internet connection.<\/h3>","init_error_msg":"Initial setting failed. Sitekey 2 and\/or sitekey 3 missing in frontend.","v3_timeout_pageload":"Timeout occurred connecting to V3 API on initial pageload","v3_timeout_verify":"Timeout occurred connecting to V3 API on verifying submit","v2_timeout_verify":"Timeout occurred connecting to V2 API on verifying you as human. Please try again and check your internet connection. It might be necessary to reload the page.","verify_msg":"Verify....","connection_error":"Could not connect to the internet. Please reload the page and try again.","validate_first":"Please validate that you are a human first","validate_submit":"Before submitting we validate that you are a human first.","no_token":"Missing internal token on valid submit - unable to proceed.","invalid_version":"Invalid reCAPTCHA version found.","api_load_error":"Google reCAPTCHA API could not be loaded."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://utm.md/wp-content/uploads/dynamic_avia/avia-footer-scripts-f61ec23800e4369a03d926c4a613f20d---6179c1f01bc09.js' id='avia-footer-scripts-js'></script>
+<script type='text/javascript'>function av_privacy_cookie_setter( cookie_name ) {var cookie_check = jQuery('html').hasClass('av-cookies-needs-opt-in') || jQuery('html').hasClass('av-cookies-can-opt-out');var toggle = jQuery('.' + cookie_name);toggle.each(function(){var container = jQuery(this).closest('.av-toggle-switch');if( cookie_check && ! document.cookie.match(/aviaCookieConsent/) ){this.checked = container.hasClass( 'av-cookie-default-checked' );}else if( cookie_check && document.cookie.match(/aviaCookieConsent/) && ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) && cookie_name != 'aviaPrivacyRefuseCookiesHideBar' ){if( cookie_name == 'aviaPrivacyEssentialCookiesEnabled' ){this.checked = false;}else{this.checked = container.hasClass( 'av-cookie-default-checked' );}}else{if( container.hasClass('av-cookie-save-checked') ){this.checked = document.cookie.match(cookie_name) ? true : false;}else{this.checked = document.cookie.match(cookie_name) ? false : true;}}});jQuery('.' + 'av-switch-' + cookie_name).addClass('active');toggle.on('click', function(){/* sync if more checkboxes exist because user added them to normal page content */var check = this.checked;jQuery('.' + cookie_name).each( function(){this.checked = check;});var silent_accept_cookie = jQuery('html').hasClass('av-cookies-user-silent-accept');if( ! silent_accept_cookie && cookie_check && ! document.cookie.match(/aviaCookieConsent/) || sessionStorage.getItem( 'aviaCookieRefused' ) ){return;}var container = jQuery(this).closest('.av-toggle-switch');var action = '';if( container.hasClass('av-cookie-save-checked') ){action = this.checked ? 'save' : 'remove';}else{action = this.checked ? 'remove' : 'save';}if('remove' == action){document.cookie = cookie_name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';}else{var theDate = new Date();var oneYearLater = new Date( theDate.getTime() + 31536000000 );document.cookie = cookie_name + '=true; Path=/; Expires='+oneYearLater.toGMTString()+';';}});}; av_privacy_cookie_setter('aviaPrivacyRefuseCookiesHideBar');  av_privacy_cookie_setter('aviaPrivacyEssentialCookiesEnabled');  av_privacy_cookie_setter('aviaPrivacyGoogleTrackingDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleWebfontsDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleMapsDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleReCaptchaDisabled');  av_privacy_cookie_setter('aviaPrivacyVideoEmbedsDisabled'); </script>
+<script type='text/javascript'>
+			
+	(function($) {
+					
+			/*	check if google analytics tracking is disabled by user setting via cookie - or user must opt in.	*/
+					
+			var analytics_code = "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https:\/\/www.googletagmanager.com\/gtag\/js?id=UA-35541405-6\"><\/script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-35541405-6');\n<\/script>".replace(/\"/g, '"' );
+			var html = document.getElementsByTagName('html')[0];
+
+			$('html').on( 'avia-cookie-settings-changed', function(e) 
+			{
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+					var script_loaded = $( 'script.google_analytics_scripts' );
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleTrackingDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+
+					if( ! allow_continue )
+					{ 
+//						window['ga-disable-UA-35541405-6'] = true;
+						if( script_loaded.length > 0 )
+						{
+							script_loaded.remove();
+						}
+					}
+					else
+					{
+						if( script_loaded.length == 0 )
+						{
+							$('head').append( analytics_code );
+						}
+					}
+			});
+			
+			$('html').trigger( 'avia-cookie-settings-changed' );
+						
+	})( jQuery );
+				
+</script></body>
+</html>
